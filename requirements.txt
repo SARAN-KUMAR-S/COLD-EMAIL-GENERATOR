@@ -1,0 +1,9 @@
+langchain
+streamlit
+pandas
+os
+time
+sqlite3
+chromadb
+uuid
+dotenv
