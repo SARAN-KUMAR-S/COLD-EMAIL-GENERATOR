@@ -1,6 +1,5 @@
 langchain
 streamlit
 pandas
-sqlite3
 chromadb
 dotenv
