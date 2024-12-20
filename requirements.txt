@@ -3,3 +3,6 @@ streamlit==1.41.1
 langchain==0.3.13
 pandas==2.2.3
 python-dotenv==1.0.0
+langchain_community
+langchain_groq
+beautifulsoup4
